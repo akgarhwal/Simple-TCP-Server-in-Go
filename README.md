@@ -1,6 +1,4 @@
-# Simple-TCP-Server-in-Go
-Simple TCP Server in Go
-
+# Simple-TCP-Server-in-Go=
 
 ## Start TCP Server
 ```sh
@@ -24,5 +22,6 @@ curl http://localhost:8080/\?name\=Abhinesh
 
 ## Improvements
 
-* [TODO] Support for Worker Pool since server will not habe enough resources.
-* [TODO] Support for time out if request is taking more time than defined threshold
+- [ ] Support for Worker Pool since server will not habe enough resources.
+- [ ] Support for time out if request is taking more time than defined threshold
+
