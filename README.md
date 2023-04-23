@@ -22,6 +22,6 @@ curl http://localhost:8080/\?name\=Abhinesh
 
 ## Improvements
 
-- [ ] Support for Worker Pool since server will not habe enough resources.
+- [ ] Support for Worker Pool since server will not have enough resources.
 - [ ] Support for time out if request is taking more time than defined threshold
 
